@@ -1,0 +1,12 @@
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.deps.json
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\bin\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.csproj.AssemblyReference.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.AssemblyInfo.cs
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Core\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.pdb

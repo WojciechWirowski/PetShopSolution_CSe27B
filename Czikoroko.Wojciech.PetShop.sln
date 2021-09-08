@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czikoroko.Wojciech.PetShop.UI", "Czikoroko.Wojciech.PetShop.UI\Czikoroko.Wojciech.PetShop.UI.csproj", "{925D03AE-05AB-497D-ADE8-1ED9C66E3940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czikoroko.Wojciech.PetShop.Domain", "Czikoroko.Wojciech.PetShop.Domain\Czikoroko.Wojciech.PetShop.Domain.csproj", "{9BB881F3-144B-4F88-9D42-C87244FE797A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czikoroko.Wojciech.PetShop.Core", "Czikoroko.Wojciech.PetShop.Core\Czikoroko.Wojciech.PetShop.Core.csproj", "{7F0B5D0C-B2BB-4EED-A1C1-92AE2A86A611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czikoroko.Wojciech.PetShop.Database", "Czikoroko.Wojciech.PetShop.Database\Czikoroko.Wojciech.PetShop.Database.csproj", "{D1753DDE-1A16-4F07-AEE0-85CCB1248266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czikoroko.Wojciech.PetShop.WebApp", "..\Czikoroko.Wojciech.PetShop.WebApp\Czikoroko.Wojciech.PetShop.WebApp\Czikoroko.Wojciech.PetShop.WebApp.csproj", "{FCBB4017-10EB-425B-A206-E65D8B5990A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925D03AE-05AB-497D-ADE8-1ED9C66E3940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D03AE-05AB-497D-ADE8-1ED9C66E3940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D03AE-05AB-497D-ADE8-1ED9C66E3940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D03AE-05AB-497D-ADE8-1ED9C66E3940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB881F3-144B-4F88-9D42-C87244FE797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB881F3-144B-4F88-9D42-C87244FE797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB881F3-144B-4F88-9D42-C87244FE797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB881F3-144B-4F88-9D42-C87244FE797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0B5D0C-B2BB-4EED-A1C1-92AE2A86A611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0B5D0C-B2BB-4EED-A1C1-92AE2A86A611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0B5D0C-B2BB-4EED-A1C1-92AE2A86A611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0B5D0C-B2BB-4EED-A1C1-92AE2A86A611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1753DDE-1A16-4F07-AEE0-85CCB1248266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1753DDE-1A16-4F07-AEE0-85CCB1248266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1753DDE-1A16-4F07-AEE0-85CCB1248266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1753DDE-1A16-4F07-AEE0-85CCB1248266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBB4017-10EB-425B-A206-E65D8B5990A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBB4017-10EB-425B-A206-E65D8B5990A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBB4017-10EB-425B-A206-E65D8B5990A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBB4017-10EB-425B-A206-E65D8B5990A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

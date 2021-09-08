@@ -1,0 +1,17 @@
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.deps.json
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Database.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.csproj.AssemblyReference.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.AssemblyInfoInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.AssemblyInfo.cs
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.csproj.CoreCompileInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.csproj.CopyComplete
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Database.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Database\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Database.pdb

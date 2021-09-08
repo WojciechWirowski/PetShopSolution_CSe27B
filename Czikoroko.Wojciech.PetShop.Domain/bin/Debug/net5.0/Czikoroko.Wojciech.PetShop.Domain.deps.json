@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Czikoroko.Wojciech.PetShop.Domain/1.0.0": {
+        "dependencies": {
+          "Czikoroko.Wojciech.PetShop.Core": "1.0.0"
+        },
+        "runtime": {
+          "Czikoroko.Wojciech.PetShop.Domain.dll": {}
+        }
+      },
+      "Czikoroko.Wojciech.PetShop.Core/1.0.0": {
+        "runtime": {
+          "Czikoroko.Wojciech.PetShop.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Czikoroko.Wojciech.PetShop.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Czikoroko.Wojciech.PetShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

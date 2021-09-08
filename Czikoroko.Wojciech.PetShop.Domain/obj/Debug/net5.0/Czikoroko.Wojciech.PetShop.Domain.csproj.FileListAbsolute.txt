@@ -1,0 +1,15 @@
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.deps.json
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Domain.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\bin\Debug\net5.0\Czikoroko.Wojciech.PetShop.Core.pdb
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.csproj.AssemblyReference.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.AssemblyInfoInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.AssemblyInfo.cs
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.csproj.CopyComplete
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\ref\Czikoroko.Wojciech.PetShop.Domain.dll
+C:\Users\PC0\RiderProjects\Czikoroko.Wojciech.PetShop\Czikoroko.Wojciech.PetShop.Domain\obj\Debug\net5.0\Czikoroko.Wojciech.PetShop.Domain.pdb
