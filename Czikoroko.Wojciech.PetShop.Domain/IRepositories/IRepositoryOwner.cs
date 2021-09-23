@@ -8,7 +8,7 @@ namespace Czikoroko.Wojciech.PetShop.Domain.IRepositories
         Owner AddOwner(Owner owner);
         List<Owner> GetAllOwner();
         Owner SearchOwner(int id);
-        void RemoveOwner(int id);
-        void UpdateOwner(Owner owner);
+        Owner RemoveOwner(int id);
+        Owner UpdateOwner(Owner owner);
     }
 }

@@ -41,14 +41,16 @@ namespace Czikoroko.Wojciech.PetShop.Database.Repositories
             OwnerEntity ownerEntity = _owners.Find(owner1 => owner1.Id == id);
             return _converter.Convert(ownerEntity);        }
 
-        public void RemoveOwner(int id)
+        public Owner RemoveOwner(int id)
         {
             _owners.Remove(_converter.Convert(SearchOwner(id)));
+            return new Owner();
         }
 
-        public void UpdateOwner(Owner owner)
+        public Owner UpdateOwner(Owner owner)
         {
             if (owner.Id != null) RemoveOwner((int) owner.Id);
-            AddOwner(owner);        }
+            return AddOwner(owner);
+        }
     }
 }

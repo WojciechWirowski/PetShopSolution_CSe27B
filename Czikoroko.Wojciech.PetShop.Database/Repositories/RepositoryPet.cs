@@ -45,9 +45,11 @@ namespace Czikoroko.Wojciech.PetShop.Database.Repositories
             return _converter.Convert(petEntity);
         }
 
-        public void RemovePet(int id)
+        public Pet RemovePet(int id)
         {
-            _pets.Remove(_converter.Convert(SearchPet(id)));
+            Pet pet = SearchPet(id);
+            _pets.Remove(_converter.Convert(pet));
+            return pet;
         }
 
         public void UpdatePet(Pet pet)

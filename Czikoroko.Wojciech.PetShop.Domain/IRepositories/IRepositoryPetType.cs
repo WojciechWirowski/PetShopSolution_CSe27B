@@ -8,7 +8,7 @@ namespace Czikoroko.Wojciech.PetShop.Domain.IRepositories
         PetType AddPetType(PetType petType);
         List<PetType> GetAllPetTypes();
         PetType SearchPetType(int id);
-        void RemovePetType(int id);
-        void UpdatePetType(PetType petType);
+        PetType RemovePetType(int id);
+        PetType UpdatePetType(PetType petType);
     }
 }

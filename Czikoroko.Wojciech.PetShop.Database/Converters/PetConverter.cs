@@ -1,8 +1,5 @@
-﻿using System.Diagnostics;
-using Czikoroko.Wojciech.PetShop.Core.Models;
+﻿using Czikoroko.Wojciech.PetShop.Core.Models;
 using Czikoroko.Wojciech.PetShop.Database.Entities;
-using Czikoroko.Wojciech.PetShop.Database.Repositories;
-using Czikoroko.Wojciech.PetShop.Domain.IRepositories;
 
 namespace Czikoroko.Wojciech.PetShop.Database.Converters
 {
@@ -10,13 +7,10 @@ namespace Czikoroko.Wojciech.PetShop.Database.Converters
     {
         public Pet Convert(PetEntity entity)
         {
-            IRepositoryPetType repository = new RepositoryPetType();
-
             return new Pet
             {
                 Id = entity.Id,
                 Name = entity.Name,
-                Type = repository.SearchPetType(entity.TypeId),
                 Birthdate = entity.Birthdate,
                 SoldDate = entity.SoldDate,
                 Colour = entity.Colour,
@@ -26,12 +20,11 @@ namespace Czikoroko.Wojciech.PetShop.Database.Converters
 
         public PetEntity Convert(Pet pet)
         {
-            Debug.Assert(pet.Type.Id != null, "pet.Type.Id != null");
             return new PetEntity
             {
                 Id = pet.Id,
                 Name = pet.Name,
-                TypeId = (int) pet.Type.Id,
+                TypeId = (int) (pet.Type != null ? pet.Type.Id : 0),
                 Birthdate = pet.Birthdate,
                 SoldDate = pet.SoldDate,
                 Colour = pet.Colour,

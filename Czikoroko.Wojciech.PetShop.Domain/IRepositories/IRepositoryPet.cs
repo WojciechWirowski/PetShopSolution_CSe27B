@@ -8,7 +8,7 @@ namespace Czikoroko.Wojciech.PetShop.Domain.IRepositories
         Pet AddPet(Pet pet);
         List<Pet> GetAllPets();
         Pet SearchPet(int id);
-        void RemovePet(int id);
+        Pet RemovePet(int id);
         void UpdatePet(Pet pet);
         List<Pet> GetChippestPets();
     }

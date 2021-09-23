@@ -28,14 +28,15 @@ namespace Czikoroko.Wojciech.PetShop.Database.Repositories
             return petType;
         }
 
-        public void RemovePetType(int id)
+        public PetType RemovePetType(int id)
         {
-            _petTypes.Remove(SearchPetType(id));
+          //  return _petTypes.Remove(SearchPetType(id));
+          return new PetType();
         }
 
-        public void UpdatePetType(PetType petType)
+        public PetType UpdatePetType(PetType petType)
         {
-            RemovePetType((int) petType.Id);
+            return RemovePetType((int) petType.Id);
         }
     }
 }
